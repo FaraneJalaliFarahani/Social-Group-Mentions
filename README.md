@@ -40,3 +40,10 @@ Label variation in our context refers to discrepancies between annotations of so
 The below flowchart shows how annotators independently label comments containing social group mentions (highlighted in bold). Mentions with disagreements between annotators (2,813) are flagged as containing label variation. Domain experts review approximately 20% (520) of these flagged mentions to develop a taxonomy of label variation. Subsequently, the material was reviewed again by domain experts, around half (1,568) of these flagged mentions are annotated with reasons for label variation, and these annotations are released along with the Reddit-SGM dataset.
 
 ![screen](https://github.com/FaraneJalaliFarahani/Social-Group-Mentions/blob/main/Flowchart.png)
+
+
+### A Taxonomy for Human Label Variation
+To understand the reasons behind label variation, we propose a taxonomy (see below) categorizing the sources of disagreement. As our goal is to understand the material without preconceived biases, we opt for an approach of **inductive category formation**, similar to what has been called **open coding** in grounded theory. This requires working through the annotated spans without searching for predefined categories or theoretical concepts. Instead, categories are formed based on the material at hand.
+
+
+![screen2](https://github.com/FaraneJalaliFarahani/Social-Group-Mentions/blob/main/Taxonomy.png)
